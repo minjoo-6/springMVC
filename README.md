@@ -190,6 +190,7 @@ canRead(), canWrite()를 통해 메세지 컨버터가 해당 클래스, 미디�
 1. ByteArrayHttpMessageConverter: byte[] 데이터 처리
 2. StringHttpMessageConverter: String을 데이터로 처리
 3. MappingJackson2HttpMessageConverter: application/json 처리
+![Argument](https://github.com/minjoo-6/springMVC/assets/65073916/644b1c01-3b44-4901-86a5-1a4b141996b4)
 
 ￼
 @RequestMapping을 처리하는 핸들러 어댑터인 @RequestMappingHandlerAdapter에는 ArgumentResolver가 있다.
